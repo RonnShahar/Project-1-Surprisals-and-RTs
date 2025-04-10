@@ -12,6 +12,5 @@ To run this project, you will need to have Python installed on your system along
 
 - NumPy
 - Pandas
-- TensorFlow or PyTorch (depending on the model implementation)
 - scikit-learn
 - Matplotlib (for visualizations)
